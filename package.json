@@ -1,0 +1,22 @@
+{
+  "name": "micronize",
+  "version": "0.1.0",
+  "description": "Simple way of enhacing a function with zeit's micro framework.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickcis/micronize.git"
+  },
+  "keywords": [
+    "micro",
+    "function",
+    "micronize",
+    "serverless"
+  ],
+  "author": "Nicolas Cisco <ncis20@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nickcis/micronize#readme",
+  "peerDependencies": {
+    "micro": "*"
+  }
+}
